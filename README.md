@@ -1,5 +1,16 @@
 # 💫 About Me
-👋 Hi, I'm Aman Mishra!<br>🚀 MERN Stack Developer | React Native Enthusiast<br><br>🎓 MCA Student at Mumbai University | BSC-IT Graduate<br>💻 Passionate about Web & Mobile App Development<br>🔹 Experienced in MERN Stack (MongoDB, Express.js, React.js, Node.js)<br>🔹 Building cross-platform apps using React Native & Expo<br><br>💡 Currently working as Full Stack Android Developer and exploring low-latency systems, database optimization & system improvements<br>🚀 Let’s build something amazing together!
+
+👋 Hi, I'm **Aman Mishra**!  
+🚀 **Mobile App Developer** | **React Native Developer** | **MERN Stack Developer**
+
+🎓 Completed **MCA** from Mumbai University | **BSc-IT Graduate**  
+💼 Currently working as a **Mobile App Developer** with **1 year of experience**
+
+💻 Passionate about **Mobile App Development**  
+🔹 Proficient in **React Native & MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+🔹 Skilled in building **cross-platform apps** using **React Native & Expo**
+
+💡 Currently exploring **low-latency systems**, **database optimization**, and **system improvements**
 
 
 ## 🌐 Socials:
