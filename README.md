@@ -10,8 +10,6 @@
 
 💡 Passionate about **mobile app development**, performance optimization, and building real-world, production-ready applications.
 
----
-
 ## 💼 Work Experience
 
 ### **Mobile App Developer** – *SpEd@school*
