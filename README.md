@@ -68,14 +68,6 @@
 * 📧 **Email:** [aman.mishra9396@gmail.com](mailto:aman.mishra9396@gmail.com)
 
 ---
-If you want, I can also:
-
-* 🔥 Optimize this for **freelance clients**
-* 🧲 Rewrite it for **US/Europe recruiters**
-* 💸 Add a **“Hire Me / Open for Freelance”** section with hourly rate
-
-Just tell me 👍
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-mishra-a50552206) 
